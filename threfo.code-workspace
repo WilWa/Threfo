@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "name": "Backend",
+      "path": "./backend"
+    },
+    {
+      "name": "Frontend",
+      "path": "./frontend"
+    }
+  ],
+  "settings": {
+    // PRETTIER.
+    "prettier.printWidth": 120,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": false,
+    "prettier.tabWidth": 2,
+    "prettier.arrowParens": "avoid",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  }
+}
